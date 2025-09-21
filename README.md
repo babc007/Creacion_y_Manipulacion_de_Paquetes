@@ -11,12 +11,12 @@ El objetivo fue comprender la estructura de los paquetes y su rol en la comunica
 
 ## Herramientas utilizadas
 - Wireshark
-- Scapy (Python) o hping3 (si lo usaste)
+- Scapy (Python) o hping3 
 - Kali Linux
 
 ## Evidencias
 Incluye capturas de los análisis de paquetes realizados.  
-*(Enlazar imágenes o PDF con informe del desafío)*
+
 
 ## Resultados
 Se comprendió en detalle la estructura de protocolos de red y se reforzaron habilidades técnicas en análisis de tráfico.
